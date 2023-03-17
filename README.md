@@ -1,4 +1,4 @@
-# CSC-495 Bonus Project
+# CSC-495 Bonus Project Overview
 
 
 # Prerequisites
