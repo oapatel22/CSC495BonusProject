@@ -4,6 +4,8 @@
 
 This project introduces a robot represented by a green circle who takes place in a 2D map. A map consists of clean tiles, walls, and a target tile. The goal of the robot is to get to its target tile using Dijkstra's algorithm by finding the shortes route to the target tile from current position. This project also performs an analysis of Dijkstra's algorithm and analyzes how as input gets larger the runtime of Dijkstra's algorithm is impacted. In a nutshell, a map in converted to a graph data structure connected with edges and each edge is given a cost and walls are given the highest cost possible in order to have the robot avoid running into the walls. The robot makes a greedy choice at each tile and either moves up, dowm, left, or right to get to the target. 
 
+A analysis report was also created which is uploaded to the repository as well as a PDF called 
+
 # Prerequisites
 
 Before you get started, make sure to have the following installed:
